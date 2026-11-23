@@ -1,0 +1,14 @@
+.claude/
+*.log
+Thumbs.db
+.DS_Store
+assets/hp1.jpg
+assets/hp2.jpg
+assets/hp3.jpg
+assets/hp4.jpg
+assets/pt1.jpg
+assets/pt2.jpg
+assets/pt3.jpg
+assets/up1.jpg
+assets/up2.jpg
+assets/up3.jpg
